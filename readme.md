@@ -2,6 +2,8 @@
 # Wrangling climate data 
 ## Aim of this talk was to show how to extract publically available climate data and use various open source python modules to wrangle multi-dimensional climate data. 
 
+
+![alt text](https://github.com/jeev20/WrangleClimateData/blob/master/images/9.png "Wrangling_Climate_Data")
 --------------------------------
 
 ## Installing dependencies
